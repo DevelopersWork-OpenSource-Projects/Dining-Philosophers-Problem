@@ -1,0 +1,1 @@
+Current time 			 philo #0 	 philo #1 	 philo #2 	 philo #3 	 philo #4 
